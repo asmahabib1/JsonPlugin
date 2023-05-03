@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body {font-family: "Lato", sans-serif; background-color: brown;}
+.jdiv{
+    background-color: #ffffff;
+}
+.jtbl {
+    background-color: #ffffff;
+}
+.jtbl .row{
+    background-color: #d29f36;
+}
+.jtbl .row td{
+    font-weight: bold;
+    font-size: 16px;
+}
+.jtbl td{
+    padding: 1%;
+    text-align: center;
+    font-size: 12px;
+}
+.jtbl td ul{
+    text-align: left;
+}
+.playbutton{
+    background-color: #0e6d2b;
+    padding: 5% 10%;
+    border-radius: 7px;
+    display: inline-grid;
+}
+.playbutton a{
+    color: #ffffff;
+}
