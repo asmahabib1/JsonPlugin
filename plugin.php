@@ -3,7 +3,7 @@
 Plugin Name: Display data from a JSON file
 Description: A plugin that works with a shortcode to display data from a JSON file.
 Version: 1.0
-Plugin URI: https://github.com/asma/simple-image-sizes
+Plugin URI: https://github.com/asmahabib1/JsonPlugin
 Description: Load JSON data in table
 Author: Asma Habib
 
